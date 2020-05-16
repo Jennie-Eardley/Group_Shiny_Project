@@ -1,5 +1,5 @@
 # Group_Shiny_Project
-A group project creating a shiny app with google analytics data
+A group project creating a shiny app with google analytics data using R shiny. 
 
 # Required Libraries
 Lubridate
@@ -14,16 +14,15 @@ To provide a client with an insight into their web traffic through data sourced 
 
 # Project Outline
 User Arrival:
-- The most common keywords used in organic searches (the company name was anonymised with the word 'Company')
-- The most common search engines (included all with over 1 hit)
-- A graph showing which paid for ads were producing the most click-throughs 
-- A graph showing the most common click throughs from social media companies. 
+
+Looks at how users arrived on the site by analysing social media click throughs, adverts and organic searches.
 
 Goal Conversions:
-- Features a date selector which updates all graphs on the tab
+
+Looks at website usage that resulted in event bookings and when bookings were made
 
 Exits: 
 
-
+Looks at which page users exited on and how many pages they had visited before exiting.
 # Contributors 
-Kostas Christodoulou Jennie Eardley and Dhileas Heywood
+Kostas Christodoulou, Jennie Eardley and Dhileas Heywood
